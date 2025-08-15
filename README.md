@@ -1,1 +1,0 @@
-# 0813_python_object-detection-using-segformer
